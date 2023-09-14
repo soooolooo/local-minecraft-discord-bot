@@ -7,6 +7,7 @@ I introduced the idea of creating a discord bot to show my own minecraft server 
 Made with discord.js library of node.js.
 
 **I noticed the bot will only give updates for local server (127.0.0.1), can I change the IP to any minecraft server I wish?**
+
 Yes.
 
 **You made it in node.js, but we can't see "node-modules" folder**
