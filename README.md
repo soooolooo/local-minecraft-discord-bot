@@ -3,8 +3,8 @@
 **What the story behind this discord bot?**
 
 I wanted to create my own discord bot. I found out it is possible by following up the tutorials of CodeLyon's on YouTube.
-I introduced the idea of creating a discord bot to show my own minecraft server status. My friends accepted that idea. Thus, I created one.
-Made with discord.js library of node.js.
+<br>I introduced the idea of creating a discord bot to show my own minecraft server status. My friends accepted that idea. Thus, I created one.
+<br>Made with discord.js library of node.js.
 
 **I noticed the bot will only give updates for local server (127.0.0.1), can I change the IP to any minecraft server I wish?**
 
